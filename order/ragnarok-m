@@ -1,0 +1,1266 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="csrf-token" content="GCybWPeTLAyGLZxwbWPYGqcTjFKsHnBQjpV7KVKC"> 
+  <title>4ksanzz store - Indonesia</title> 
+  <meta name="title" content="4ksanzz store - Indonesia"> 
+  <meta name="description" content="Layanan Top Up Game MLBB, Free Fire, PUBG, CODM termurah Se Indonesia. Top Up Mobile Legends Termurah Dan Proses Yang Mudah &amp; Cepat."> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:url" content="https://4ksanzz.store"> 
+  <meta property="og:title" content="4ksanzz store - Indonesia"> 
+  <meta property="og:description" content="Layanan Top Up Game MLBB, Free Fire, PUBG, CODM termurah Se Indonesia. Top Up Mobile Legends Termurah Dan Proses Yang Mudah &amp; Cepat."> 
+  <meta name="twitter:image" content="/assets/logo/20230812_135309.png"> 
+  <meta property="og:image" content="/assets/logo/20230812_135309.png"> 
+  <meta name="robots" content="index, follow"> 
+  <meta content="desktop" name="device"> 
+  <meta name="author" content="4KSANZZSTORE&quot;"> 
+  <meta name="coverage" content="Worldwide"> 
+  <meta name="apple-mobile-web-app-title" content="4ksanzz store - Indonesia"> 
+  <link rel="shortcut icon" href="https://www.4ksanzz.store/assets/logo/20230805_162420.png"> 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"> 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/green/pace-theme-flash.min.css"> 
+  <link rel="stylesheet" href="https://unpkg.com/placeholder-loading/dist/css/placeholder-loading.min.css"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.1/css/font-awesome.min.css"> 
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css"> 
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"> 
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"> 
+  <meta name="theme-color" content="#3080E3"> 
+  <meta name="msapplication-navbutton-color" content="#3080E3"> 
+  <meta name="apple-mobile-web-app-status-bar-style" content="#3080E3"> 
+  <style>
+        @import  url('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.0.46/css/materialdesignicons.css');
+        @import  url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+        :root {
+            --warna_1: #04082E;
+            --warna_2: #0b0e2e;
+            --warna_3: #ffffff;
+            --warna_4: #ffffff;
+        }
+        
+        ::-webkit-scrollbar {
+          display: none;
+        }
+        textarea:hover, 
+        input:hover, 
+        textarea:active, 
+        input:active, 
+        textarea:focus, 
+        input:focus,
+        button:focus,
+        button:active,
+        button:hover,
+        label:focus,
+        .btn:active,
+        .btn.active
+        {
+            outline:0px !important;
+            -webkit-appearance:none;
+            box-shadow: none !important;
+        }
+
+        body {
+            background: var(--warna_1);
+            font-family: Roboto;
+        }
+        .content {
+            max-width: 480px;
+            margin: auto;
+            background: #ffffff;
+        }
+        .header {
+            display: flex;
+            top: 0;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            position: fixed;
+            max-width: 480px;
+            height: 64px;
+            color: #fff;
+            background: var(--warna_2);
+            padding: 13px;
+            padding-right: 18px;
+            justify-content: space-between!important;
+            z-index: 9999;
+        }
+        .header img {
+            max-width: 100%;
+            max-height: 20px;
+            margin: 8px;
+            margin-left: 15px;
+        }
+        .header i {
+            color: #fff !important;
+        }
+        .header span {
+            color: #fff !important;
+        }
+        .content-body {
+            padding: 0 16px;
+        }
+        .content-body-populer {
+            padding: 0 10px;
+        }
+        .content-body form input {
+            outline: none;
+            margin-top: -30px;
+            border: none !important;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),0 4px 6px -2px rgba(0, 0, 0, 0.05) !important;
+        }
+        .my-shadow {
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        .product .box {
+            padding: 0.8rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            border-radius: 0.5rem;
+            text-align: center;
+            background: #fff;
+            display: block;
+            text-decoration: none;
+            color: #333;
+            min-height: 143px;
+        }
+        .product .box img {
+            width: 56px;
+            display: block;
+            margin: auto;
+            margin-top: calc(1.5rem * -1);
+            border-radius: 0.5rem;
+        }
+        .product .box span {
+            font-size: xx-small;
+            margin-top: 15px;
+            display: block;
+            text-transform: uppercase;
+            color: #718096;
+        }
+        .product .box p {
+            margin-top: 0.5rem;
+            font-weight: 500;
+            font-size: 0.75rem;
+            font-family: Roboto,serif;
+        }
+        
+        .card {
+            cursor: pointer;
+        }
+        .card-scroll {
+            flex: 0 0 auto;
+            width: 31%;
+        }
+        .product-populer {
+            overflow-x: scroll;
+        }
+        .product-populer .box {
+            
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            border-radius: 0.5rem;
+            text-align: center;
+            background: #fff;
+            display: block;
+            text-decoration: none;
+            color: #333;
+            min-height: 143px;
+        }
+        .product-populer .box img {
+            width: 56px;
+            display: block;
+            margin: auto;
+            margin-top: calc(1.5rem * -1);
+            border-radius: 0.5rem;
+        }
+        .product-populer .box span {
+            font-size: xx-small;
+            margin-top: 15px;
+            display: block;
+            text-transform: uppercase;
+            color: #718096;
+        }
+        .product-populer .box p {
+            margin-top: 0.5rem;
+            font-weight: 500;
+            font-size: 0.75rem;
+            font-family: Roboto,serif;
+        }
+        
+        .lb {
+            border-top: 7px solid var(--warna_1);
+        }
+        .footer img {
+            padding-top: 2.5rem 0;
+        }
+        .menu-bottom {
+            position: fixed;
+            bottom: 0;
+            background: #fff;
+            width: 100%;
+            max-width: 480px;
+            border-top: 1px solid #E2E8F0;
+            padding: 0.25rem 0;
+            text-align: center;
+            z-index: 2;
+        }
+        .menu-bottom i {
+            font-size: 24px;
+            color: #718096;
+        }
+        .menu-bottom a {
+            text-decoration: none;
+        }
+        .menu-bottom a.active i, .menu-bottom a.active p {
+            color: var(--warna_2) !important;
+        }
+        .menu-bottom p {
+            color: #718096;
+            font-size: 0.875rem;
+            margin-top: -5px;
+            margin-bottom: 3px;
+            font-weight: 400;
+        }
+        .text-copyright {
+            color: #718096;
+            font-size: 0.875rem;
+        }
+        .sosmed {
+            margin-bottom: 20px;
+        }
+        .sosmed a {
+            margin: 0 10px;
+            text-decoration: none;
+        }
+        .sosmed a img {
+            width: 24px;
+        }
+        .item .metode {
+            margin: 5px 0;
+            background: #fff;
+            border-radius: 8px;
+            padding: 0.75rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+        }
+        .my-form label {
+            font-size: 1rem;
+        }
+        .my-form .form-control {
+            background: #edf2f7;
+            margin-top: 6px;
+            border: 2px solid #edf2f7 !important;
+        }
+        .my-form .form-control:active, .my-form .form-control:focus {
+            border-color: #3182ce !important;
+            box-shadow: none !important;
+            outline: none !important;
+        }
+        .color {
+            color: var(--warna_2) !important;
+        }
+        .bg {
+            background-color: var(--warna_2);
+        }
+        .btn {
+            border: none;
+            font-weight: 500;
+        }
+        .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+            background: var(--warna_2);
+        }
+        .title {
+            font-size: 1.125rem;
+            margin-top: 5px;
+            position: absolute;
+        }
+        .bg-primary {
+            background: var(--warna_2) !important;
+        }
+        .bg-secondary {
+            background: var(--warna_3) !important;
+         }
+        .bg-white-custom {
+            background: var(--warna_4) !important;
+        }
+        .cursor-pointer {
+            cursor: pointer;
+        }
+        #toolbarContainer {
+            display: none;
+        }
+        .btn.disabled, .btn:disabled, fieldset:disabled {
+            background: #56ccfd;
+            border-color: #56ccfd;
+        }
+        .fw-500 {
+            font-weight: 500;
+        }
+        .otp .col-2 {
+            padding: 0 2px;
+        }
+        .method-list {
+            overflow: hidden;
+            cursor: pointer;
+        }
+        .method-list.active {
+            border-color: var(--warna_2) !important;
+        }
+        .method-list.active:before {
+            display: inline-block;
+            content: 'L';
+            position: relative;
+            background: var(--warna_2);
+            margin-left: -12px;
+            height: 53px;
+            line-height: 40px;
+            width: 20px;
+            text-align: center;
+            color: #fff;
+            top: -23px;
+            transform: rotate(45deg) scaleX(-1);;
+        }
+        .method-list.active table {
+            margin-top: -53px;
+        }
+        
+        .btn:hover {
+            background-color: #3080E3!important;
+        }
+        
+        .carousel {
+            padding-top: 80px;
+        }
+        
+        .carousel-inner  {
+            border-radius: 12px;
+        }
+        
+    .slider {
+        width: 100%;
+        margin: 100px auto;
+    }
+    .slick-slide {
+      margin: 0px 10px;
+    }
+    .slick-slide img {
+      width: 100%;
+      border-radius: 12px;
+    }
+    .slick-prev:before,
+    .slick-next:before {
+      color: black;
+    }
+    .slick-slide {
+      transition: all ease-in-out .3s;
+      opacity: .2;
+    }
+    .slick-active {
+      opacity: .5;
+    }
+    .slick-current {
+      opacity: 1;
+    }
+        
+    </style> 
+  <style>
+        .accordion-button{box-shadow:none!important}
+        .accordion-tipe{font-weight:600;}
+        .btn.disabled,.btn:disabled,fieldset:disabled{background:#8ba4b1;border-color:#8ba4b1}
+        .product .box{margin-bottom:40px}
+
+        .games-banner{height:170px;background:url(/assets/banner_game/1691565910812.jpg);background-size:cover;background-repeat:no-repeat;background-size:100%}
+        .num-page{margin-bottom:10px}
+        .num-page div{width:40px;height:40px;border-radius:50%;text-align:center;font-size:1.875rem;background:var(--warna_2);color:#fff;line-height:40px;float:left}
+        .num-page p{margin-left:10px;display:inline-block;font-size:1.25rem;font-weight:500;padding-top:2px}
+        button.accordion-button{outline:none!important;border:none!important;box-shadow:none!important}
+        .box-back{width:28px;height:28px;background: #33333354;text-align:center;border-radius:10px;display:inline-block;transition:.5s}
+        .box-back:hover{background: #333333d9}
+        .box-back i{font-size:22px;margin-top:2px;color:#fff}
+        .product-list{border-radius:.5rem;box-shadow:0 1px 2px 0 rgba(0,0,0,.05);overflow:hidden}
+        .product-list b{font-size:.85rem;font-weight:600}
+        .product-list span{font-size:11px;color:#718096}
+        .product-list.active{border:1px solid var(--warna_2)!important}
+        .product-list.active:before{display:inline-block;content:'L';position:relative;background:var(--warna_2);margin-left:-20px;height:53px;line-height:40px;width:20px;text-align:center;color:#fff;top:-23px;transform:rotate(45deg) scaleX(-1)}
+        .product-list.active b{margin-top:-53px}
+        .panduan {
+            color: #718096;
+            font-size: 0.85rem;
+            margin-top: 0.5rem;
+        }
+        .swal2-styled.swal2-confirm {
+            background-color: var(--warna_2)!important;
+            color: #fff;
+        }
+        .swal2-styled.swal2-confirm:focus {
+            box-shadow: none!important;
+        }
+        .product-list img {
+            display: flex;
+            float: right;
+            margin-top: -12px;
+        }
+        .productlogo {
+            width: 32px;
+            right: 5%;
+        }
+</style> 
+ </head>
+ <body> 
+  <div class="content"> 
+   <div class="modal fade" id="petunjukModal" tabindex="-1" aria-labelledby="petunjukModalLabel" aria-hidden="true"> 
+    <div class="modal-dialog modal-dialog-centered"> 
+     <div class="modal-content" style="background: transparent; border: none;"> 
+      <div class="modal-body"> 
+       <img src="/assets/petunjuk/185.png" alt="" class="img-fluid"> 
+      </div> <button type="button" class="btn mx-auto w-25 text-white bg-transparent" data-bs-dismiss="modal">X</button> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="games-banner p-3"> <a class="box-back" href="https://www.4ksanzz.store"> <i class="fa fa-angle-left" aria-hidden="true"></i> </a> 
+   </div> 
+   <div class="text-center pb-3"> 
+    <img src="/assets/thumbnail/1691542893784.jpg" alt="" width="80" class="rounded" style="margin-top: -50px;"> 
+    <h4 class="mt-3 mb-0" style="font-size: 1.125rem;">Ragnarok M</h4> <small style="font-size: 14px;color: #718096;">Proses : otomatis</small> 
+   </div> 
+   <div class="lb"></div> 
+   <form class="my-form" id="form-order"> 
+    <input type="hidden" id="nominal"> 
+    <input type="hidden" id="metode"> 
+    <input type="hidden" id="ktg_tipe" value="game"> 
+    <div class="px-3 py-3"> 
+     <div class="num-page"> 
+      <div>
+       1
+      </div> 
+      <p>Masukan Data</p> 
+     </div> 
+     <div class="row"> 
+      <div class="col-6"> 
+       <input type="text" class="form-control" placeholder="Masukkan ID" id="user_id" name="user_id" autocomplete="off"> 
+      </div> 
+      <div class="col-6"> <select class="form-control" id="zone"> <option value="">Pilih Server</option> <option value="eternal_love">Eternal Love</option> <option value="midnight_party">Midnight Party</option> <option value="memory_of_faith">Memory Of Faith</option> </select> 
+      </div> 
+      <p class="panduan">Untuk menemukan ID Anda, tap pada gambar karakter Anda. ID Anda akan terdaftar dibawah nama karakter Anda. Mohon masukan nomor ID Anda disini. Contoh: 4295037856.</p> <button class="btn btn-primary btn-sm mx-auto w-25" type="button" data-bs-toggle="modal" data-bs-target="#petunjukModal">Petunjuk</button> 
+     </div> 
+    </div> 
+    <div class="lb"></div> 
+    <div class="px-3 py-3"> 
+     <div class="num-page"> 
+      <div>
+       2
+      </div> 
+      <p>Pilih Item</p> 
+     </div> 
+     <div class="row"> 
+      <div class="col-6 mb-3"> 
+       <div id="product-1886" class="p-2 px-3 border cursor-pointer bg-white product-list" product-id="1886"> <b class="d-block">6+1 Big Cat Coins</b> 
+        <img src="" class="productlogo"> <span>Rp 15,392,-</span> 
+       </div> 
+      </div> 
+      <div class="col-6 mb-3"> 
+       <div id="product-1887" class="p-2 px-3 border cursor-pointer bg-white product-list" product-id="1887"> <b class="d-block">18+6 Big Cat Coins</b> 
+        <img src="" class="productlogo"> <span>Rp 52,000,-</span> 
+       </div> 
+      </div> 
+      <div class="col-6 mb-3"> 
+       <div id="product-1888" class="p-2 px-3 border cursor-pointer bg-white product-list" product-id="1888"> <b class="d-block">24+6 Big Cat Coins</b> 
+        <img src="" class="productlogo"> <span>Rp 71,634,-</span> 
+       </div> 
+      </div> 
+      <div class="col-6 mb-3"> 
+       <div id="product-1889" class="p-2 px-3 border cursor-pointer bg-white product-list" product-id="1889"> <b class="d-block">30+6 Big Cat Coins</b> 
+        <img src="" class="productlogo"> <span>Rp 77,350,-</span> 
+       </div> 
+      </div> 
+      <div class="col-6 mb-3"> 
+       <div id="product-1890" class="p-2 px-3 border cursor-pointer bg-white product-list" product-id="1890"> <b class="d-block">60+12 Big Cat Coins</b> 
+        <img src="" class="productlogo"> <span>Rp 133,186,-</span> 
+       </div> 
+      </div> 
+      <div class="col-6 mb-3"> 
+       <div id="product-1891" class="p-2 px-3 border cursor-pointer bg-white product-list" product-id="1891"> <b class="d-block">120+25 Big Cat Coins</b> 
+        <img src="" class="productlogo"> <span>Rp 306,825,-</span> 
+       </div> 
+      </div> 
+      <div class="col-6 mb-3"> 
+       <div id="product-1892" class="p-2 px-3 border cursor-pointer bg-white product-list" product-id="1892"> <b class="d-block">298+75 Big Cat Coins</b> 
+        <img src="" class="productlogo"> <span>Rp 700,000,-</span> 
+       </div> 
+      </div> 
+      <div class="col-6 mb-3"> 
+       <div id="product-1893" class="p-2 px-3 border cursor-pointer bg-white product-list" product-id="1893"> <b class="d-block">598+150 Big Cat Coins</b> 
+        <img src="" class="productlogo"> <span>Rp 1,400,000,-</span> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb"></div> 
+    <div class="px-3 pt-3 mb-3"> 
+     <div class="num-page"> 
+      <div>
+       3
+      </div> 
+      <p>Pilih Pembayaran</p> 
+     </div> 
+     <div class="accordion mb-3" id="accordionExample-1" style="box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06);border-radius: 6px;"> 
+      <div class="accordion-item"> 
+       <h2 class="accordion-header" id="heading-bank"> <button class="accordion-button collapsed bg-white-custom text-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-bank" aria-expanded="false" aria-controls="collapse-bank"> 
+         <div class="accordion-tipe">
+          Bank Transfer
+         </div> </button> </h2> 
+       <div id="collapse-bank" class="accordion-collapse collapse" aria-labelledby="heading-bank" data-bs-parent="#accordionExample-1"> 
+        <div class="accordion-body bg-secondary"> 
+         <div class="row"> 
+          <div class="col-6"> 
+           <div id="method-23" class="p-2 border rounded mb-3 method-list" method-id="BCA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/bca.webp" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="BCA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">BCA</b> <b class="d-block">Di cek manual</b> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="bg-secondary p-2 border text-end border-top-0 text-nowrap" style="border-radius: 0 0 6px 6px;overflow-x: auto"> 
+       <img src="/assets/thumbnail/bca.webp" alt="" width="64"> 
+      </div> 
+     </div> 
+     <div class="accordion mb-3" id="accordionExample-1" style="box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06);border-radius: 6px;"> 
+      <div class="accordion-item"> 
+       <h2 class="accordion-header" id="heading-ewallet"> <button class="accordion-button collapsed bg-white-custom text-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-ewallet" aria-expanded="false" aria-controls="collapse-ewallet"> 
+         <div class="accordion-tipe">
+          E-Wallet
+         </div> </button> </h2> 
+       <div id="collapse-ewallet" class="accordion-collapse collapse" aria-labelledby="heading-ewallet" data-bs-parent="#accordionExample-1"> 
+        <div class="accordion-body bg-secondary"> 
+         <div class="row"> 
+          <div class="col-6"> 
+           <div id="method-23" class="p-2 border rounded mb-3 method-list" method-id="QRIS"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/pay-dana-saved (1).png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="QRIS"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">DANA</b> <b class="d-block">Dicek Manual</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-23" class="p-2 border rounded mb-3 method-list" method-id="QRIS"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/quick-response-code-indonesia-standard-qris-logo-F300D5EB32-seeklogo.com.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="QRIS"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">QRIS (Ovo,Gopay, Shopeepay, Dana, Link, Semua Bank)</b> <b class="d-block">Dicek Otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-23" class="p-2 border rounded mb-3 method-list" method-id="OVO"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/ovo" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="OVO"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">OVO</b> <b class="d-block">Dicek Manual</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-23" class="p-2 border rounded mb-3 method-list" method-id="SHOPEEPAY"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/d204uajhlS1655719774.webp" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="SHOPEEPAY"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">SHOPEEPAY</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-23" class="p-2 border rounded mb-3 method-list" method-id="QRIS"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/GO_PAY_CHNL_LOGO.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="QRIS"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">GOPAY</b> <b class="d-block">Dicek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="bg-secondary p-2 border text-end border-top-0 text-nowrap" style="border-radius: 0 0 6px 6px;overflow-x: auto"> 
+       <img src="/assets/thumbnail/pay-dana-saved (1).png" alt="" width="64"> 
+       <img src="/assets/thumbnail/quick-response-code-indonesia-standard-qris-logo-F300D5EB32-seeklogo.com.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/ovo" alt="" width="64"> 
+       <img src="/assets/thumbnail/d204uajhlS1655719774.webp" alt="" width="64"> 
+       <img src="/assets/thumbnail/GO_PAY_CHNL_LOGO.png" alt="" width="64"> 
+      </div> 
+     </div> 
+     <div class="accordion mb-3" id="accordionExample-1" style="box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06);border-radius: 6px;"> 
+      <div class="accordion-item"> 
+       <h2 class="accordion-header" id="heading-convenience-store"> <button class="accordion-button collapsed bg-white-custom text-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-convenience-store" aria-expanded="false" aria-controls="collapse-convenience-store"> 
+         <div class="accordion-tipe">
+          Convenience Store
+         </div> </button> </h2> 
+       <div id="collapse-convenience-store" class="accordion-collapse collapse" aria-labelledby="heading-convenience-store" data-bs-parent="#accordionExample-2"> 
+        <div class="accordion-body bg-secondary"> 
+         <div class="row"> 
+          <div class="col-6"> 
+           <div id="method-12" class="p-2 border rounded mb-3 method-list" method-id="ALFAMART"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/alfamart-101040.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="ALFAMART"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">Alfamart</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-12" class="p-2 border rounded mb-3 method-list" method-id="INDOMARET"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/indomaret-cf710.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="INDOMARET"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">Indomaret</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-12" class="p-2 border rounded mb-3 method-list" method-id="ALFAMIDI"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/alfamidi-11096.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="ALFAMIDI"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">Alfamidi</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="bg-secondary p-2 border text-end border-top-0 text-nowrap" style="border-radius: 0 0 6px 6px;overflow-x: auto"> 
+       <img src="/assets/thumbnail/alfamart-101040.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/indomaret-cf710.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/alfamidi-11096.png" alt="" width="64"> 
+      </div> 
+     </div> 
+     <div class="accordion mb-3" id="accordionExample-1" disabled style="box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06);border-radius: 6px;"> 
+      <div class="accordion-item"> 
+       <h2 class="accordion-header" id="heading-virtual-account"> <button class="accordion-button collapsed bg-white-custom text-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-virtual-account" aria-expanded="false" aria-controls="collapse-virtual-account"> 
+         <div class="accordion-tipe">
+          Virtual Account
+         </div> </button> </h2> 
+       <div id="collapse-virtual-account" class="accordion-collapse collapse" aria-labelledby="heading-virtual-account" data-bs-parent="#accordionExample-5"> 
+        <div class="accordion-body bg-secondary"> 
+         <div class="row"> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="CIMBVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/cimb-5e210.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="CIMBVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">CIMB Virtual Account</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="SAMPOERNAVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/sampoerna-c2f1.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="SAMPOERNAVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">Sampoerna Virtual Account</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="MUAMALATVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/muamalat-3711.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="MUAMALATVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">Muamalat Virtual Account</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="SMSVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/sinarmas-c108b.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="SMSVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">Sinarmas Virtual Account</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="MANDIRIVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/mandiri-410a10.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="MANDIRIVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">Mandiri Virtual Account</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="BRIVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/bri-0dd9.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="BRIVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">BRI Virtual Account</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="BNIVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/bni-102fa.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="BNIVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">BNI Virtual Account</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="PERMATAVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/permata-94d10.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="PERMATAVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">Permata Virtual Account</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="MYBVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/maybank-3043.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="MYBVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">Maybank Virtual Account</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="BSIVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/bsi-min-7108.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="BSIVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">BSI Virtual Account</b> <b class="d-block">Di cek otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="col-6"> 
+           <div id="method-21" class="p-2 border rounded mb-3 method-list" method-id="BCAVA"> 
+            <table class="w-100 border-bottom mb-2"> 
+             <tbody>
+              <tr> 
+               <td> <img src="/assets/thumbnail/bca-5e57.png" alt="" class="w-75"> </td> 
+               <td> <b style="font-size: 12px;white-space: nowrap;" id="BCAVA"></b> </td> 
+              </tr> 
+             </tbody>
+            </table> 
+            <div style="font-size: 12px;color: #718096;"> <b class="d-block mb-2">BCA Virtual Account</b> <b class="d-block">Proses Otomatis</b> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="bg-secondary p-2 border text-end border-top-0 text-nowrap" style="border-radius: 0 0 6px 6px;overflow-x: auto"> 
+       <img src="/assets/thumbnail/cimb-5e210.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/sampoerna-c2f1.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/muamalat-3711.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/sinarmas-c108b.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/mandiri-410a10.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/bri-0dd9.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/bni-102fa.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/permata-94d10.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/maybank-3043.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/bsi-min-7108.png" alt="" width="64"> 
+       <img src="/assets/thumbnail/bca-5e57.png" alt="" width="64"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb"></div> 
+    <div class="px-3 pt-3" style="margin-bottom: 15px;"> 
+     <div class="num-page"> 
+      <div>
+       4
+      </div> 
+      <p>Beli!</p> 
+     </div> 
+     <input type="number" class="form-control" placeholder="Nomor WhatsApp" id="nomor" autocomplete="off" name="whatsapp"> 
+     <p class="mt-3" style="font-size: 13px;color: #718096;">Bukti pembayaran atas pembelian anda akan kami kirimkan ke WhatsApp anda.</p> 
+    </div> 
+    <div class="lb"></div> 
+    <div class="px-3 pt-3" style="margin-bottom: 90px;"> 
+     <div class="num-page"> 
+      <div>
+       5
+      </div> 
+      <p>Kode Promo</p> 
+     </div> 
+     <input type="text" class="form-control" placeholder="Voucher" id="voucher" autocomplete="off" name="voucher"> 
+     <p class="mt-3" style="font-size: 13px;color: #718096;">Abaikan apabila tidak memiliki kode voucher</p> <button class="btn btn-primary w-50 floating-start" type="button" id="btn-check">Gunakan Kode Promo</button> 
+    </div> 
+   </form> 
+   <div class="lb"></div> 
+   <div class="menu-bottom p-3"> <button class="btn btn-order btn-primary w-100" type="button" id="btn-order">Beli Sekarang</button> 
+   </div> 
+  </div> 
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script> 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script> 
+  <script src="https://www.google.com/recaptcha/api.js"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script> 
+  <script>
+         $.ajaxSetup({
+            headers: {
+                'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+            }
+        });
+    </script> 
+  <script type="text/javascript">
+    $(document).on('ready', function() {
+      $('.center').slick({
+  centerMode: true,
+  centerPadding: '60px',
+  slidesToShow: 3,
+  responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 3
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1
+      }
+    }
+  ]
+});
+    });
+</script> 
+  <script>
+    
+     function changeHarga(harga,hargareal)
+    {
+        $("#SALDO").html(harga);
+        $("#OVO").html(harga);
+        $("#GOPAY").html(harga);
+        $("#DANA").html(harga);
+        $("#BCA").html(harga);
+        $("#SHOPEEPAY").html(harga);
+        $("#QRIS").html(harga);
+        $("#QRIS2").html(harga);
+        $("#MYBVA").html(harga);
+        $("#PERMATAVA").html(harga);
+        $("#BNIVA").html(harga);
+        $("#BRIVA").html(harga);
+        $("#MANDIRIVA").html(harga);
+        $("#SMSVA").html(harga);
+        $("#MUAMALATVA").html(harga);
+        $("#CIMBVA").html(harga);
+        $("#SAMPOERNAVA").html(harga);
+        $("#BSIVA").html(harga);
+        $("#ALFAMART").html(harga);
+        $("#ALFAMIDI").html(harga);
+        $("#INDOMARET").html(harga);
+    }
+    
+    
+     $('.accordion-button').css('pointer-events','none');
+     $('.accordion-header').addClass('hide-payment');
+     
+    
+    $('.product-list').click(function(){
+        
+        $('.accordion-button').css('pointer-events','auto');
+        $('.accordion-header').removeClass('hide-payment');
+        
+       const prd = $(this).attr('product-id');
+       $('.product-list').removeClass('active');
+       $(this).addClass('active');
+       
+       $('#nominal').val(prd);
+       
+       $.ajax({
+                    url: "https://www.4ksanzz.store/order/harga",
+                    dataType: "json",
+                    type: "POST",
+                    data: {
+                        "_token": "GCybWPeTLAyGLZxwbWPYGqcTjFKsHnBQjpV7KVKC",
+                        "nominal": prd
+                    },
+                    success: function(res) {
+                        changeHarga(res.harga);
+                    }
+                })
+       
+       
+    });
+    
+    
+    $('.accordion-header').click(function(){
+       
+        if($(this).hasClass('hide-payment')){
+            
+            toastr.options.positionClass = "toast-top-center";
+            toastr.options.closeButton = true;
+            
+            toastr.error('Mohon untuk pilih item terlebih dahulu');
+            
+        }
+        
+    });
+    
+toastr.options = {
+  "closeButton": true,
+  "debug": false,
+  "newestOnTop": true,
+  "progressBar": true,
+  "positionClass": "toast-top-center",
+  "preventDuplicates": false,
+  "onclick": null,
+  "showDuration": "300",
+  "hideDuration": "1000",
+  "timeOut": "5000",
+  "extendedTimeOut": "1000",
+  "showEasing": "swing",
+  "hideEasing": "linear",
+  "showMethod": "fadeIn",
+  "hideMethod": "fadeOut"
+}
+    
+    
+    
+    $('.method-list').click(function(){
+        
+       const mtd = $(this).attr('method-id');
+       $('.method-list').removeClass('active');
+       $(this).addClass('active');
+       
+       $('#metode').val(mtd);
+       
+      
+       
+    });
+    
+    $("#btn-order").on("click", function() {
+        
+
+            var uid = $("#user_id").val();
+            var zone = $("#zone").val();
+            var email_joki = $("#email_joki").val();
+            var password_joki = $("#password_joki").val();
+            var loginvia_joki = $("#loginvia_joki").val();
+            var nickname_joki = $("#nickname_joki").val();
+            var request_joki = $("#request_joki").val();
+            var catatan_joki = $("#catatan_joki").val();
+            var service = $("#nominal").val();
+            var pembayaran = $("#metode").val();
+            var nomor = $("#nomor").val();
+            // var email = $("input[name='email']").val();
+            var voucher = $("#voucher").val();
+            var ktg_tipe = $("#ktg_tipe").val();
+           
+            $.ajax({
+                url: "https://www.4ksanzz.store/order/konfirmasi-data",
+                dataType: "JSON",
+                type: "POST",
+                data: {
+                    '_token': 'GCybWPeTLAyGLZxwbWPYGqcTjFKsHnBQjpV7KVKC',
+                    'uid': uid,
+                    'zone': zone,
+                    'service': service,                   
+                    'payment_method': pembayaran,
+                    'nomor': nomor,
+                    'email_joki' : email_joki,
+                    'password_joki' : password_joki,
+                    'loginvia_joki' : loginvia_joki,
+                    'nickname_joki' : nickname_joki,
+                    'request_joki' : request_joki,
+                    'catatan_joki' : catatan_joki,
+                    'ktg_tipe' : ktg_tipe,
+                    // 'email': email,
+                    'voucher': voucher
+                },
+                beforeSend: function() {
+                    Swal.fire({
+                        icon: "info",
+                        title: "Tunggu sebentar yaa...",
+                        // background: '#222831',
+                        // color: '#fff',
+                        showConfirmButton: false,
+                        allowOutsideClick: false,
+                    });
+                },
+                complete:function(){
+                    grecaptcha.reset();
+                },
+                success: function(res) {
+                    if (res.status == true) {
+                        Swal.fire({
+                            // background: '#222831',
+                            // color: '#fff',
+                            titleText: 'Detail Pesanan kamu',
+                            html: `${res.data}`,
+                            showCancelButton: true,
+                            cancelButtonText: 'Cancel',
+                            confirmButtonText: 'Konfirmasi',
+                            customClass: {
+                                title: 'swal-title',
+                                htmlContainer: 'swal-text'
+                            }
+
+                        }).then(resp => {
+                            if (resp.isConfirmed) {
+                                var nickname = $("#nick").text();
+                                var nohp = $("#nomor").val();
+                                // var email = $("input[name='email']").val();
+                                $.ajax({
+                                    url: "https://www.4ksanzz.store/pembelian",
+                                    dataType: "JSON",
+                                    type: "POST",
+                                    data: {
+                                        '_token': 'GCybWPeTLAyGLZxwbWPYGqcTjFKsHnBQjpV7KVKC',
+                                        'nickname': nickname,
+                                        'uid': uid,
+                                        'zone': zone,
+                                        'service': service,
+                                        'payment_method': pembayaran,
+                                        'nomor': nohp,
+                                        // 'email': email,
+                                        'voucher': voucher,
+                                        'email_joki' : email_joki,
+                                        'password_joki' : password_joki,
+                                        'loginvia_joki' : loginvia_joki,
+                                        'nickname_joki' : nickname_joki,
+                                        'request_joki' : request_joki,
+                                        'catatan_joki' : catatan_joki,
+                                        'ktg_tipe' : ktg_tipe,
+
+                                    },
+                                    beforeSend: function() {
+                    Swal.fire({
+                        icon: "info",
+                        title: "Tunggu sebentar yaa...",
+                        // background: '#222831',
+                        // color: '#fff',
+                        showConfirmButton: false,
+                        allowOutsideClick: false,
+                    });
+                },
+                                    success: function(resOrder) {
+                                        if (resOrder.status) {
+                                            Swal.fire({
+                                                title: 'Berhasil memesan',
+                                                text: `Order ID : ${resOrder.order_id}`,
+                                                icon: 'success',
+                                                showConfirmButton: false,
+                                                allowOutsideClick: false,
+                                                // background: '#222831',
+                                                // color: '#fff'
+                                            });
+                                            window.location = `/pembelian/invoice/${resOrder.order_id}`;
+                                        } else {
+                                            Swal.fire({
+                                                title: 'Yahh Gagal...',
+                                                text: `${resOrder.data}`,
+                                                icon: 'error',
+                                                // background: '#222831',
+                                                // color: '#fff'
+                                            });
+                                        }
+                                    }
+                                })
+                            }
+                        })
+                    } else if (res.status == false) {
+                        Swal.fire({
+                            title: 'Yahh Gagal...',
+                            text: res.data,
+                            icon: 'error',
+                            // background: '#222831',
+                            // color: '#fff'
+                        });
+                    } else {
+                        Swal.fire({
+                            title: 'Yahh Gagal...',
+                            text: 'User ID kamu tidak ditemukan.',
+                            icon: 'error',
+                            // background: '#222831',
+                            // color: '#fff'
+                        });
+                    }
+                },
+                error: function(e) {
+                    if (e.status == 422) {
+                        Swal.fire({
+                            title: 'Yahh Gagal...',
+                            text: 'Masih ada data yang kosong nihh.',
+                            icon: 'error',
+                            // background: '#222831',
+                            // color: '#fff'
+                        });
+                    }
+                }
+            })
+        })
+        
+        
+        
+        
+        $("#btn-check").on("click", function(){
+            var voucher = $("#voucher").val();
+            var service = $("#nominal").val();
+            $.ajax({
+                url: "https://www.4ksanzz.store/check-voucher",
+                dataType: "JSON",
+                type: "POST",
+                data: {
+                    "_token": "GCybWPeTLAyGLZxwbWPYGqcTjFKsHnBQjpV7KVKC",
+                    "voucher": voucher,
+                    "service": service
+                },
+                beforeSend: function() {
+                    Swal.fire({
+                        icon: "info",
+                        title: "Tunggu sebentar yaa...",
+                        // background: '#222831',
+                        // color: '#fff',
+                        showConfirmButton: false,
+                        allowOutsideClick: false,
+                    });
+                },
+                success: function (res){
+                    Swal.fire({
+                        icon: "success",
+                        title: res.message,
+                        // background: '#222831',
+                        // color: '#fff',
+                        showConfirmButton: true,
+                        allowOutsideClick: true,
+                    });                   
+                    
+                    if(res.harga){
+                        changeHarga(res.harga);
+                    }
+                },
+                error: function(e){
+                    Swal.fire({
+                        title: 'Yahh Gagal...',
+                        text: e.responseJSON.message,
+                        icon: 'error',
+                        // background: '#222831',
+                        // color: '#fff'
+                    });                    
+                }
+            }) 
+        });
+        
+
+    
+    
+    
+</script>  
+ </body>
+</html>
